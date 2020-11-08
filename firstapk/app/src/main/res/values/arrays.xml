@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Табак</item>
+        <item>Угли</item>
+        <item>Кальяны</item>
+        <item>Чаши</item>
+        <item>Комплектующие</item>
+    </string-array>
+
+    <string-array name="brands">
+        <item>MustHave</item>
+        <item>DarkSide</item>
+        <item>B3</item>
+        <item>Cobra</item>
+        <item>Spectrum</item>
+    </string-array>
+
+    <string-array name="variation">
+        <item>Малина</item>
+        <item>Клубника</item>
+        <item>Кекс</item>
+        <item>Черника</item>
+        <item>Персик</item>
+    </string-array>
+
+</resources>

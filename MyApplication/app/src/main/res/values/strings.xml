@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="it_true">It True!</string>
+    <string name="it_false">It False!</string>
+    <string name="change_true">You click True</string>
+    <string name="change_false">You click False</string>
+    <string name="next">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+
+
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\’s oldest and deepest freshwater lake.</string>
+    <string name="prev">prev</string>
+    <string name="todo">Diiimoon, kak dela? chto novogho? Ne znayu kak budet zvuchat etot text, no dumaiu budet zabavno!</string>
+    <string name="todo2">TODO2</string>
+
+
+</resources>

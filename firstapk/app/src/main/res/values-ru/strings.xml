@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ВкусДым</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="send">Меню</string>
+</resources>
